@@ -1,7 +1,6 @@
-# braintapper-svelte-componentname
+# braintapper-svelte-modal
 
-Brief description here
-
+Work in progress.
 
 # Usage
 
@@ -10,7 +9,7 @@ Brief description here
 Import the components you need in your <script> tag:
 
 ```
-  import Indent from "braintapper-svelte-componentname";
+  import { ModalContainer } from "braintapper-svelte-modal";
 ```
 
 ## Example Markup
