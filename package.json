@@ -1,6 +1,6 @@
 {
     "name": "braintapper-svelte-modal",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Svelte component for modals",
     "author": "braintapper",
     "license": "MIT",
