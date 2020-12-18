@@ -5,7 +5,8 @@
   import ModalFooter from "./Footer.svelte";
 
   import { createEventDispatcher } from 'svelte';
-  dispatch = createEventDispatcher();
+  
+  let dispatch = createEventDispatcher();
   
   
   export let show = false;
