@@ -25,7 +25,7 @@
   <div slot="footer">
     <div>
       <Button on:click={destroy} state="critical">Delete</Button>
-      <Button on:click={cancel}>Cancel</Button>
+      <Button on:click={cancel} state="cancel">Cancel</Button>
     </div>
   </div>
   <div>
