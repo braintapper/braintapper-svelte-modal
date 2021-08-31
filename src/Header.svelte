@@ -11,7 +11,10 @@
     
     div h1 {
       font-size: var(--font-xl);
-      font-weight: var(--font-bold); }
+      font-weight: var(--font-bold); 
+      margin: 0px;
+      }
+
 
 
 </style>
